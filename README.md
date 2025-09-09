@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vue-rabbit
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -33,3 +34,7 @@ npm run build
 ```sh
 npm run lint
 ```
+=======
+# vue-Rabbit
+小兔鲜商城项目
+>>>>>>> d2d35d5a15d800aaef22a12c834900623611d9c7
